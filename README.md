@@ -1,11 +1,12 @@
-Note:
+        Note
+
 Billboards and buildings have missing tiles as the current library has these removed, previously buildings and billboards came with tiles around the prop
 
 Kingdom is missing a prop that was not included in the current library
 
 Cave is missing its cave library was it was removed as being unused
 
-Missing maps:
+        Missing maps
 
 New Kungur and New Props 1 (made using the Mega library, which makes it a bit difficult to convert for now)
 
